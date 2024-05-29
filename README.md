@@ -15,8 +15,17 @@ Welcome to the Nuxt 3 Learning Project! This repository serves as a practical gu
 3. Start the development server with `npm run dev`.
 4. Explore the project structure and dive into the codebase to understand Nuxt 3 fundamentals.
 
-## Features
+## <a name="modules">🧩 Modules</a>
+- Home Page 
+- Product Listing Page
+- Product View page 
+- Cart Page
+- Login Page
+- Create New Product
 
+
+## Features
+- **Dynamic Header:** On login header shows cart option . 
 - **Dynamic Routing:** Learn how to create SEO-friendly, client-side-rendered pages with Nuxt 3's dynamic routing capabilities.
 - **Server-Side Rendering (SSR):** Understand the benefits of SSR for improved performance and SEO, demonstrated through this project.
 - **Component-Based Design:** Discover the power of component-based architecture in building scalable and maintainable web applications.
